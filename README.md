@@ -32,11 +32,8 @@ Send me a message at mendez.nicholasr@gmail.com
 <code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/heroku/heroku-original-wordmark.svg"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/illustrator/illustrator-plain.svg"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/0e565980d0a51fe7736bb090fb394659febfbe58/icons/photoshop/photoshop-plain.svg"></code> 
-
-
 <br />
 <br />
-
 5 Open Source Contributions , including
 - <a href="https://github.com/osmlab/name-suggestion-index">Name Suggestion Index<a> 
 - <a href="https://github.com/faker-ruby/faker">Faker<a> 
