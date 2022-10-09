@@ -35,6 +35,6 @@ Send me a message at mendez.nicholasr@gmail.com
 <br />
 <br />
 5 Open Source Contributions , including
-- <a href="https://github.com/osmlab/name-suggestion-index">Name Suggestion Index<a> 
 - <a href="https://github.com/faker-ruby/faker">Faker<a> 
+- <a href="https://github.com/osmlab/name-suggestion-index">Name Suggestion Index<a> 
 - <a href="https://github.com/publiclab/plots2">PublicLab.org<a> 
