@@ -16,7 +16,6 @@ I've always had an affinity for things which are both artistic and technical. I'
 <br />
 <br />
 Whenever I'm not working in VS Code, I'm either lifting weights with a friend, practicing guitar, or spending time with family.
-
 <br />
 <br />
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
@@ -32,7 +31,7 @@ Whenever I'm not working in VS Code, I'm either lifting weights with a friend, p
 <code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/0e565980d0a51fe7736bb090fb394659febfbe58/icons/photoshop/photoshop-plain.svg"></code> 
 <br />
 <br />
-5 Open Source Contributions , including
+5 Open Source Contributions, including:
 - <a href="https://github.com/faker-ruby/faker">Faker<a> 
 - <a href="https://github.com/osmlab/name-suggestion-index">Name Suggestion Index<a> 
 - <a href="https://github.com/publiclab/plots2">PublicLab.org<a> 
