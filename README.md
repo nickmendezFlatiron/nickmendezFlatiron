@@ -1,5 +1,5 @@
 ### Hi, I'm Nick. 
-I'm a recent Flatiron School grad who is actively looking for career opportunites as a Software Engineer. I am very excited to learn from other developers and contribute production-level code to large scale projects. 
+I'm a recent Flatiron School grad who is actively searching for career opportunites as a Software Engineer. I am very excited to learn from other developers and contribute production-level code to large scale projects. 
 <br />
 <a href="https://www.linkedin.com/in/mendez-nicholas/">
   <img align="left" alt="Nicholas Mendez | LinkedIn" width="30px" src="https://pngimg.com/uploads/linkedIn/linkedIn_PNG38.png" />
