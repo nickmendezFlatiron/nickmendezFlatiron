@@ -10,8 +10,7 @@ I'm a recent Flatiron School grad who is actively looking for career opportunite
 <a href="https://nickmendezflatiron.github.io/my-portfolio/index.html">
   <img align="left" alt="Nicholas Mendez | Website" width="30px" src="https://img.icons8.com/pastel-glyph/2x/website--v2.png" />
 </a>
-<br />
-I've always had an affinity for things which are both artistic and technical. I'm a self-taught music producer, fitness enthusiast, and day trader. Finding resourceful solutions to difficult problems sustains the vehement flame within me.
+<br />I've always had an affinity for things which are both artistic and technical. I'm a self-taught music producer, fitness enthusiast, and day trader. Finding resourceful solutions to difficult problems sustains the vehement flame within me.
 <br />
 Whenever I'm not working in VS Code, I'm either lifting weights with a friend, practicing guitar, or spending time with family.
 <br />
@@ -28,7 +27,7 @@ Send me a message at mendez.nicholasr@gmail.com
 <code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/0e565980d0a51fe7736bb090fb394659febfbe58/icons/html5/html5-plain.svg"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/heroku/heroku-original-wordmark.svg"></code>
-<code><img height="20" src="https://rfaw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/illustrator/illustrator-line.svg"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/illustrator/illustrator-plain.svg"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/0e565980d0a51fe7736bb090fb394659febfbe58/icons/photoshop/photoshop-plain.svg"></code> 
 
 
