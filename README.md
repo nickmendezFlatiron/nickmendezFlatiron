@@ -16,9 +16,7 @@ I've always had an affinity for things which are both artistic and technical. I'
 <br />
 <br />
 Whenever I'm not working in VS Code, I'm either lifting weights with a friend, practicing guitar, or spending time with family.
-<br />
-<br />
-Send me a message at mendez.nicholasr@gmail.com 
+
 <br />
 <br />
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
