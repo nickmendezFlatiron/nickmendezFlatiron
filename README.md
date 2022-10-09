@@ -34,3 +34,10 @@ Send me a message at mendez.nicholasr@gmail.com
 <code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/0e565980d0a51fe7736bb090fb394659febfbe58/icons/photoshop/photoshop-plain.svg"></code> 
 
 
+<br />
+<br />
+
+5 Open Source Contributions , including
+- <a href="https://github.com/osmlab/name-suggestion-index">Name Suggestion Index<a> 
+- <a href="https://github.com/faker-ruby/faker">Faker<a> 
+- <a href="https://github.com/publiclab/plots2">PublicLab.org<a> 
