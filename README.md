@@ -12,7 +12,7 @@ I'm a recent Flatiron School grad who is actively searching for career opportuni
 </a>
 <br />
 <br />
-I've always had an affinity for things which are both artistic and technical. I'm a self-taught music producer, fitness enthusiast, and day trader. Finding resourceful solutions to difficult problems sustains the vehement flame within me.
+I've always had an affinity for things which are both artistic and technical. I'm a self-taught music producer, fitness enthusiast, and swing trader. Finding resourceful solutions to difficult problems sustains the vehement flame within me.
 <br />
 <br />
 Whenever I'm not working in VS Code, I'm either lifting weights with a friend, practicing guitar, or spending time with family.
