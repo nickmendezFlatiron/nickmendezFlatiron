@@ -10,6 +10,7 @@
   <img align="left" alt="Nicholas Mendez | Website" width="30px" src="https://img.icons8.com/pastel-glyph/2x/website--v2.png" />
 </a>
 <br />
+<br />
 5 Open Source Contributions, including:
 - <a href="https://github.com/faker-ruby/faker">Faker<a> 
 - <a href="https://github.com/osmlab/name-suggestion-index">Name Suggestion Index<a> 
