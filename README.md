@@ -1,5 +1,4 @@
 ### Hi, I'm Nick. 
-I'm a recent Flatiron School grad who is actively searching for career opportunites as a Software Engineer. I am very excited to learn from other developers and contribute production-level code to large scale projects. 
 <br />
 <a href="https://www.linkedin.com/in/mendez-nicholas/">
   <img align="left" alt="Nicholas Mendez | LinkedIn" width="30px" src="https://pngimg.com/uploads/linkedIn/linkedIn_PNG38.png" />
@@ -10,12 +9,6 @@ I'm a recent Flatiron School grad who is actively searching for career opportuni
 <a href="https://nickmendezflatiron.github.io/my-portfolio/index.html">
   <img align="left" alt="Nicholas Mendez | Website" width="30px" src="https://img.icons8.com/pastel-glyph/2x/website--v2.png" />
 </a>
-<br />
-<br />
-I've always had an affinity for things which are both artistic and technical. I'm a self-taught music producer, fitness enthusiast, and swing trader. Finding resourceful solutions to difficult problems sustains the vehement flame within me.
-<br />
-<br />
-Whenever I'm not working in VS Code, I'm either lifting weights with a friend, practicing guitar, or spending time with family.
 <br />
 <br />
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
